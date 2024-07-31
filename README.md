@@ -1,4 +1,3 @@
-```markdown
 # AI Tools Website
 
 This repository contains the code for a website showcasing various AI tools. The website includes free tools, categorizes tools by features, and offers background music for a pleasant browsing experience.
