@@ -2,7 +2,7 @@
 
 This repository contains the code for a website showcasing various AI tools. The website includes free tools, categorizes tools by features, and offers background music for a pleasant browsing experience.
 ![Static Badge](https://img.shields.io/badge/Javascript-purple)
-![Static Badge](https://img.shields.io/badge/A-JunarMC-Repo-orange)
+![Static Badge](https://img.shields.io/badge/A-JN-REPO-orange)
 ![Static Badge](https://img.shields.io/badge/HTML-green)
 
 ## Features
